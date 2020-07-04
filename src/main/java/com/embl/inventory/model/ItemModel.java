@@ -1,6 +1,6 @@
 package com.embl.inventory.model;
 
-import com.embl.inventory.generator.SkuGenerator;
+import com.embl.inventory.util.SkuGenerator;
 import lombok.Data;
 
 /**

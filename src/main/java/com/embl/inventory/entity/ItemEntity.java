@@ -26,7 +26,7 @@ public class ItemEntity {
     @Column(unique = true)
     private String sku;
     @Column
-    private BigInteger count;
+    private int count;
 
     @Override
     public String toString() {

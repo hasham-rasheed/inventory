@@ -18,4 +18,9 @@ public interface InventoryService {
      */
     List<ItemModel> findAll();
 
+    /**
+     * Initially loads data into the database
+     */
+    void initDatabase();
+
 }
