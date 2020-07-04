@@ -9,6 +9,7 @@ Using Spring Boot and Angular to display inventory items.
 * [Lombok](https://projectlombok.org/) - Never write another getter or equals method again, with one annotation your class has a fully featured builder, Automate your logging variables, and much more.<br/>
 * [Git](https://git-scm.com/) - Free and Open-Source distributed version control system<br/>
 * [Angular](https://angular.io/) - Angular is a platform for building mobile and desktop web applications
+* [H2](https://www.h2database.com/html/main.html) - H2 is a relational database management system written in Java. It can be embedded in Java applications or run in client-server mode
 
 
 ### Building and running the application locally
