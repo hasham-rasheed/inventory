@@ -11,7 +11,7 @@ import org.springframework.context.annotation.Configuration;
  * 05-07-2020
  */
 @Configuration
-public class LoadData {
+public class DataLoader {
 
     @Autowired
     private InventoryService inventoryService;
